@@ -1,0 +1,13 @@
+Change Component Footprint: Designator=Q1_U_Driver High Current1 Old Footprint=SO-8_N New Footprint=SOIC-8
+Change Component Footprint: Designator=Q1_U_Driver High Current2 Old Footprint=SO-8_N New Footprint=SOIC-8
+Change Component Footprint: Designator=Q1_U_Driver High Current3 Old Footprint=SO-8_N New Footprint=SOIC-8
+Change Component Footprint: Designator=Q1_U_Driver High Current4 Old Footprint=SO-8_N New Footprint=SOIC-8
+Change Component Footprint: Designator=Q1_U_Driver High Current5 Old Footprint=SO-8_N New Footprint=SOIC-8
+Change Component Footprint: Designator=Q1_U_Driver High Current6 Old Footprint=SO-8_N New Footprint=SOIC-8
+Change Component Footprint: Designator=Q2_U_Driver High Current1 Old Footprint=SO-8_N New Footprint=SOIC-8
+Change Component Footprint: Designator=Q2_U_Driver High Current2 Old Footprint=SO-8_N New Footprint=SOIC-8
+Change Component Footprint: Designator=Q2_U_Driver High Current3 Old Footprint=SO-8_N New Footprint=SOIC-8
+Change Component Footprint: Designator=Q2_U_Driver High Current4 Old Footprint=SO-8_N New Footprint=SOIC-8
+Change Component Footprint: Designator=Q2_U_Driver High Current5 Old Footprint=SO-8_N New Footprint=SOIC-8
+Change Component Footprint: Designator=Q2_U_Driver High Current6 Old Footprint=SO-8_N New Footprint=SOIC-8
+Added Room: Name=main

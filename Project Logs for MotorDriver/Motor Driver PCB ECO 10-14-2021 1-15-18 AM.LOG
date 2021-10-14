@@ -1,0 +1,156 @@
+Added Component: Designator=Q1_U_Driver High Current1(INF-PG-TO-263-3-2_A_L)
+Added Component: Designator=Q1_U_Driver High Current2(INF-PG-TO-263-3-2_A_L)
+Added Component: Designator=Q1_U_Driver High Current3(INF-PG-TO-263-3-2_A_L)
+Added Component: Designator=Q1_U_Driver High Current4(INF-PG-TO-263-3-2_A_L)
+Added Component: Designator=Q1_U_Driver High Current5(INF-PG-TO-263-3-2_A_L)
+Added Component: Designator=Q1_U_Driver High Current6(INF-PG-TO-263-3-2_A_L)
+Added Component: Designator=Q2_U_Driver High Current1(INF-PG-TO-263-3-2_A_L)
+Added Component: Designator=Q2_U_Driver High Current2(INF-PG-TO-263-3-2_A_L)
+Added Component: Designator=Q2_U_Driver High Current3(INF-PG-TO-263-3-2_A_L)
+Added Component: Designator=Q2_U_Driver High Current4(INF-PG-TO-263-3-2_A_L)
+Added Component: Designator=Q2_U_Driver High Current5(INF-PG-TO-263-3-2_A_L)
+Added Component: Designator=Q2_U_Driver High Current6(INF-PG-TO-263-3-2_A_L)
+Added Component: Designator=U1_U_Driver High Current1(SOIC-8)
+Add component (AddParameter): Name = "Code_IPC"; Value = "SOIC127P600-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-012-AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.irf.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.irf.com/product-info/datasheets/data/ir2104.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "PD600461"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "13-Apr-2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "8-Pin Plastic Small Outline Integrated Circuit 1.27 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SO-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Feb-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=U1_U_Driver High Current2(SOIC-8)
+Add component (AddParameter): Name = "Code_IPC"; Value = "SOIC127P600-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-012-AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.irf.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.irf.com/product-info/datasheets/data/ir2104.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "PD600461"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "13-Apr-2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "8-Pin Plastic Small Outline Integrated Circuit 1.27 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SO-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Feb-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=U1_U_Driver High Current3(SOIC-8)
+Add component (AddParameter): Name = "Code_IPC"; Value = "SOIC127P600-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-012-AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.irf.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.irf.com/product-info/datasheets/data/ir2104.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "PD600461"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "13-Apr-2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "8-Pin Plastic Small Outline Integrated Circuit 1.27 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SO-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Feb-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=U1_U_Driver High Current4(SOIC-8)
+Add component (AddParameter): Name = "Code_IPC"; Value = "SOIC127P600-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-012-AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.irf.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.irf.com/product-info/datasheets/data/ir2104.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "PD600461"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "13-Apr-2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "8-Pin Plastic Small Outline Integrated Circuit 1.27 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SO-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Feb-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=U1_U_Driver High Current5(SOIC-8)
+Add component (AddParameter): Name = "Code_IPC"; Value = "SOIC127P600-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-012-AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.irf.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.irf.com/product-info/datasheets/data/ir2104.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "PD600461"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "13-Apr-2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "8-Pin Plastic Small Outline Integrated Circuit 1.27 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SO-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Feb-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=U1_U_Driver High Current6(SOIC-8)
+Add component (AddParameter): Name = "Code_IPC"; Value = "SOIC127P600-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-012-AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.irf.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.irf.com/product-info/datasheets/data/ir2104.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "PD600461"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "13-Apr-2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "8-Pin Plastic Small Outline Integrated Circuit 1.27 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SO-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Feb-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12 Pin=U1_U_Driver High Current1-1
+Added Pin To Net: NetName=IN1 Pin=U1_U_Driver High Current1-2
+Added Pin To Net: NetName=SD1 Pin=U1_U_Driver High Current1-3
+Added Pin To Net: NetName=GND Pin=U1_U_Driver High Current1-4
+Added Pin To Net: NetName=NetR2_U_Driver High Current1_1 Pin=U1_U_Driver High Current1-5
+Added Pin To Net: NetName=NetC1_U_Driver High Current1_2 Pin=U1_U_Driver High Current1-6
+Added Pin To Net: NetName=NetR1_U_Driver High Current1_1 Pin=U1_U_Driver High Current1-7
+Added Pin To Net: NetName=NetC1_U_Driver High Current1_1 Pin=U1_U_Driver High Current1-8
+Added Pin To Net: NetName=+12 Pin=U1_U_Driver High Current2-1
+Added Pin To Net: NetName=IN2 Pin=U1_U_Driver High Current2-2
+Added Pin To Net: NetName=SD1 Pin=U1_U_Driver High Current2-3
+Added Pin To Net: NetName=GND Pin=U1_U_Driver High Current2-4
+Added Pin To Net: NetName=NetR2_U_Driver High Current2_1 Pin=U1_U_Driver High Current2-5
+Added Pin To Net: NetName=NetC1_U_Driver High Current1_2 Pin=U1_U_Driver High Current2-6
+Added Pin To Net: NetName=NetR1_U_Driver High Current2_1 Pin=U1_U_Driver High Current2-7
+Added Pin To Net: NetName=NetC1_U_Driver High Current2_1 Pin=U1_U_Driver High Current2-8
+Added Pin To Net: NetName=+12 Pin=U1_U_Driver High Current3-1
+Added Pin To Net: NetName=IN3 Pin=U1_U_Driver High Current3-2
+Added Pin To Net: NetName=SD3 Pin=U1_U_Driver High Current3-3
+Added Pin To Net: NetName=GND Pin=U1_U_Driver High Current3-4
+Added Pin To Net: NetName=NetR2_U_Driver High Current3_1 Pin=U1_U_Driver High Current3-5
+Added Pin To Net: NetName=NetC1_U_Driver High Current1_2 Pin=U1_U_Driver High Current3-6
+Added Pin To Net: NetName=NetR1_U_Driver High Current3_1 Pin=U1_U_Driver High Current3-7
+Added Pin To Net: NetName=NetC1_U_Driver High Current3_1 Pin=U1_U_Driver High Current3-8
+Added Pin To Net: NetName=+12 Pin=U1_U_Driver High Current4-1
+Added Pin To Net: NetName=IN4 Pin=U1_U_Driver High Current4-2
+Added Pin To Net: NetName=SD3 Pin=U1_U_Driver High Current4-3
+Added Pin To Net: NetName=GND Pin=U1_U_Driver High Current4-4
+Added Pin To Net: NetName=NetR2_U_Driver High Current4_1 Pin=U1_U_Driver High Current4-5
+Added Pin To Net: NetName=NetC1_U_Driver High Current1_2 Pin=U1_U_Driver High Current4-6
+Added Pin To Net: NetName=NetR1_U_Driver High Current4_1 Pin=U1_U_Driver High Current4-7
+Added Pin To Net: NetName=NetC1_U_Driver High Current4_1 Pin=U1_U_Driver High Current4-8
+Added Pin To Net: NetName=+12 Pin=U1_U_Driver High Current5-1
+Added Pin To Net: NetName=IN5 Pin=U1_U_Driver High Current5-2
+Added Pin To Net: NetName=SD5 Pin=U1_U_Driver High Current5-3
+Added Pin To Net: NetName=GND Pin=U1_U_Driver High Current5-4
+Added Pin To Net: NetName=NetR2_U_Driver High Current5_1 Pin=U1_U_Driver High Current5-5
+Added Pin To Net: NetName=NetC1_U_Driver High Current1_2 Pin=U1_U_Driver High Current5-6
+Added Pin To Net: NetName=NetR1_U_Driver High Current5_1 Pin=U1_U_Driver High Current5-7
+Added Pin To Net: NetName=NetC1_U_Driver High Current5_1 Pin=U1_U_Driver High Current5-8
+Added Pin To Net: NetName=+12 Pin=U1_U_Driver High Current6-1
+Added Pin To Net: NetName=IN6 Pin=U1_U_Driver High Current6-2
+Added Pin To Net: NetName=SD5 Pin=U1_U_Driver High Current6-3
+Added Pin To Net: NetName=GND Pin=U1_U_Driver High Current6-4
+Added Pin To Net: NetName=NetR2_U_Driver High Current6_1 Pin=U1_U_Driver High Current6-5
+Added Pin To Net: NetName=NetC1_U_Driver High Current1_2 Pin=U1_U_Driver High Current6-6
+Added Pin To Net: NetName=NetR1_U_Driver High Current6_1 Pin=U1_U_Driver High Current6-7
+Added Pin To Net: NetName=NetC1_U_Driver High Current6_1 Pin=U1_U_Driver High Current6-8
+Added Member To Class: ClassName=U_Driver High Current1 Member=Component U1_U_Driver High Current1 (U1) IR2104S
+Added Member To Class: ClassName=U_Driver High Current2 Member=Component U1_U_Driver High Current2 (U1) IR2104S
+Added Member To Class: ClassName=U_Driver High Current3 Member=Component U1_U_Driver High Current3 (U1) IR2104S
+Added Member To Class: ClassName=U_Driver High Current4 Member=Component U1_U_Driver High Current4 (U1) IR2104S
+Added Member To Class: ClassName=U_Driver High Current5 Member=Component U1_U_Driver High Current5 (U1) IR2104S
+Added Member To Class: ClassName=U_Driver High Current6 Member=Component U1_U_Driver High Current6 (U1) IR2104S
